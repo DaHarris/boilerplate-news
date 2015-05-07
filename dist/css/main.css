@@ -16,6 +16,29 @@ html {
     line-height: 1.4;
 }
 
+.reddit-container {
+  margin-left: 5%;
+  width: 30%;
+  height: 100%;
+  border-style: solid;
+  border-width: 2px;
+  float: left;
+}
+
+.nytimes-container {
+  width: 30%;
+  border-style: solid;
+  border-width: 2px;
+  float: left;
+}
+
+.npr-container {
+  width: 30%;
+  border-style: solid;
+  border-width: 2px;
+  float: left;
+}
+
 /*
  * Remove text-shadow in selection highlight:
  * https://twitter.com/miketaylr/status/12228805301
